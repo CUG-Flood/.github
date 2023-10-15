@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
@@ -8,10 +6,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
 ## 中国极端气象水文事件实时监测、动态预警与损失评估
 
-_起步阶段，欢迎有志者加入🙋‍♀️_
+_起步阶段，欢迎有志者加入🙋‍♀️👋_
 
 ### 极端事件
 - [ ] 寒潮
