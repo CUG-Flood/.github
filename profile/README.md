@@ -27,3 +27,10 @@ _起步阶段，欢迎有志者加入🙋‍♀️👋_
 ### 3. 损失评估
 - [ ] 遥感--植被
 - [ ] 遥感--水体
+
+网址: <https://china-flood.streamlit.app/>
+
+### Backends
+- Python: streamlit, pymysql, leafmap, geemap, 
+- Julia: Makie
+- R: shiny, `ChinaWater.R`
