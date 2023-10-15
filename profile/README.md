@@ -31,6 +31,6 @@ _起步阶段，欢迎有志者加入🙋‍♀️👋_
 网址: <https://china-flood.streamlit.app/>
 
 ### Backends
-- Python: streamlit, pymysql, leafmap, geemap, 
-- Julia: Makie
-- R: shiny, `ChinaWater.R`
+- Python: `streamlit`, `pymysql`, `leafmap`, `geemap`
+- Julia: `Makie`, `Zarr`, `YAXArrays`
+- R: `shiny`, `ChinaWater.R`
